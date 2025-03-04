@@ -1,0 +1,2 @@
+This game ask you for a minimum and maximum input value. Then you can find the middle number, as it adopts a random.randint function. It will give you the middle number between two numbers.
+Is being developed now for decimals.
